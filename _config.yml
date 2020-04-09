@@ -126,7 +126,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/groups/python/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PythonClan"
