@@ -1,0 +1,14 @@
+Clayton:
+  name        : "Clayton"
+  bio         : "Web developer trying to make a living"
+  avatar      : "https://claytonerrington.com/images/avatar2.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://claytonerrington.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/cjerrington/"

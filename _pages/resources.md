@@ -11,4 +11,24 @@ sidebar:
     nav: "http://google.com"
 ---
 
-This page we can use for the resources for new beginners and other items.
+## Where to start
+
+So you have decided to learn [Python](https://www.python.org/) and need a place to start? There are many online resources to start with and here are just a few:
+
+- [Beginners Guide by Python](https://wiki.python.org/moin/BeginnersGuide)
+- [w3schools.com](https://www.w3schools.com/python/)
+- [Real Python Tutorials](https://realpython.com/)
+- [Python Code](https://www.thepythoncode.com/)
+
+Did you want some book resources?
+
+- [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+## Video Sources
+
+Please submit your video sources to get added to the page for others.
+
+## Did we miss anything
+
+If you think there is more please [edit](https://github.com/PythonClan/pythonclan.github.io/edit/master/_pages/resources.md) this page and we'll review the material.
