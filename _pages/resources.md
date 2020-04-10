@@ -9,6 +9,7 @@ sidebar:
   - title: "Another Title"
     text: "More text here."
     nav: "http://google.com"
+toc: true
 ---
 
 ## Where to start
@@ -31,4 +32,4 @@ Please submit your video sources to get added to the page for others.
 
 ## Did we miss anything
 
-If you think there is more please [edit](https://github.com/PythonClan/pythonclan.github.io/edit/master/_pages/resources.md) this page and we'll review the material.
+If you think there is more please [submit and issue](https://github.com/PythonClan/pythonclan.github.io/issues/new) the page name with the changes you'd like to see and we'll review the material.
