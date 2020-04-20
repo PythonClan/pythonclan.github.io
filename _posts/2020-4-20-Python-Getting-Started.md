@@ -44,7 +44,7 @@ python myscript.py
 
 You should see the following:
 
-![myscript-example](assets/images/myscript-example.gif)
+![myscript-example](/assets/images/myscript-example.gif)
 
 Today we have learned how to install Python, took a look at the REPL, and how to run simple scripts.
 
