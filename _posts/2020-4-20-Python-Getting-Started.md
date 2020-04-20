@@ -44,8 +44,11 @@ python myscript.py
 
 You should see the following:
 
-![myscript-example](/assets/images/myscript-example.gif)
+- The terminal asking for your name or input
+- Then once you enter the input it should print a line with your input text.
+
+![myscript-example](/assets/images/myscript-example.png)
 
 Today we have learned how to install Python, took a look at the REPL, and how to run simple scripts.
 
-This is only to get you started. Take a look at our [Resources](/Resources) page for further in depth learning.
+This is only to get you started. Take a look at our [Resources](/resources) page for further in depth learning.

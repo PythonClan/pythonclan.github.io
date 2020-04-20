@@ -1,6 +1,6 @@
 # pythonclan.github.io
 
-[pythonclan.github.io](pythonclan.github.io)
+[pythonclan.github.io](https://pythonclan.github.io)
 
 To begin we will need Ruby and Jekyll installed.
 
