@@ -1,5 +1,5 @@
 ---
-title:  "Upcoming action items"
+title:  "Python Getting Started"
 author: Clayton
 categories: beginnerseries
 ---
