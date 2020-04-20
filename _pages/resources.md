@@ -20,6 +20,7 @@ So you have decided to learn [Python](https://www.python.org/) and need a place 
 - [w3schools.com](https://www.w3schools.com/python/)
 - [Real Python Tutorials](https://realpython.com/)
 - [Python Code](https://www.thepythoncode.com/)
+- [Geeks for Geeks - Python](https://www.geeksforgeeks.org/python-programming-language/)
 
 Did you want some book resources?
 
@@ -28,7 +29,16 @@ Did you want some book resources?
 
 ## Video Sources
 
-Please submit your video sources to get added to the page for others.
+- [Learn Python for free](https://scrimba.com/g/gpython)
+- [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [Learn Python for Web Development](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- [Python Tutorials](https://bit.ly/2rzWKmZ)
+
+## Phone Apps
+
+There are a few apps both for Android and iOS for Learning Programing basics. 
+
+-  [Sololearn App](https://www.sololearn.com/)
 
 ## Did we miss anything
 
