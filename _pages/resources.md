@@ -29,10 +29,14 @@ Did you want some book resources?
 
 ## Video Sources
 
-- [Learn Python for free](https://scrimba.com/g/gpython)
-- [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
-- [Learn Python for Web Development](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
-- [Python Tutorials](https://bit.ly/2rzWKmZ)
+- Python
+    - [Learn Python for free](https://scrimba.com/g/gpython)
+    - [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
+    - [Learn Python for Web Development](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+    - [Python Tutorials](https://bit.ly/2rzWKmZ)
+
+- Git and Github
+    - [Introduction to Git and Github](https://youtu.be/NPRUsCcZwJ4)
 
 ## Phone Apps
 
