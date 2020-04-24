@@ -12,3 +12,16 @@ main:
   #  url: /collection-archive/
   #- title: "Sitemap"
   #  url: /sitemap/
+
+
+sidebar-about:
+- title: "Posts Categories"
+  children:
+    - title: "Announcements"
+      url: /categories/#announcements
+    - title: "Beginner Series"
+      url: /categories/#beginnerseries
+- title: "Member Resources"
+  children:
+    - title: "Resources"
+      url: /resources

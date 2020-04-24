@@ -3,12 +3,9 @@ title: "Resources"
 layout: single
 permalink: /resources/
 date: 2020-04-09
-#sidebar:
- # - title: "Quick link"
-  #  text: "Some text here."
-  #- title: "Another Title"
-   # text: "More text here."
-   # nav: "http://google.com"
+sidebar:
+  title: "Site links"
+  nav: sidebar-about
 toc: true
 ---
 
