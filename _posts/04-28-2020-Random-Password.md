@@ -1,5 +1,5 @@
 ---
-title:  "Python Environments & Modules"
+title:  "Python Random Passwords"
 author: Clayton
 categories: examples
 tags: beginner
