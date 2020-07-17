@@ -19,6 +19,8 @@ So you have decided to learn [Python](https://www.python.org/) and need a place 
 - [Python Code](https://www.thepythoncode.com/)
 - [Geeks for Geeks - Python](https://www.geeksforgeeks.org/python-programming-language/)
 
+Another great resource is the [Free eBook Foundation](https://ebookfoundation.github.io/free-programming-books/free-programming-interactive-tutorials-en.html#python)
+
 Did you want some book resources?
 
 - [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e/)
