@@ -44,6 +44,13 @@ There are a few apps both for Android and iOS for Learning Programing basics.
 
 -  [Sololearn App](https://www.sololearn.com/)
 
+## Member Maintained Resources
+
+These are great resources created and maintained by our memebers. 
+- Stefan Bradstreet | [beapython.dev - Blog](https://beapython.dev) | [YouTube Channel](https://www.youtube.com/channel/UCkKBhevnpbV4s_dPJsP2RcQ/featured)
+- Clayton Errington | [Useful Scripting Network - Blog](http://usefulscripting.network)
+- Mariya Sha | [Python Simplified - YouTube Channel](https://www.youtube.com/c/PythonSimplified)
+
 ## Did we miss anything
 
 If you think there is more please [submit and issue](https://github.com/PythonClan/pythonclan.github.io/issues/new) the page name with the changes you'd like to see and we'll review the material.
