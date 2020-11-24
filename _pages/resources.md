@@ -27,6 +27,8 @@ Did you want some book resources?
 - [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
+[Best Python IDEs and Code Editors](https://towardsdatascience.com/best-python-ides-and-code-editors-you-must-use-in-2020-2303a53db24)
+
 ## Video Sources
 
 - Python
