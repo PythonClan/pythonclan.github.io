@@ -21,6 +21,7 @@ So you have decided to learn [Python](https://www.python.org/) and need a place 
 - [Geeks for Geeks - Python](https://www.geeksforgeeks.org/python-programming-language/)
 - [Online interactive tutorials](http://www.pythonbytesize.com/exercise-index.html)
 - [Python Stacks - Discover Python libraries for your project](https://www.pythonstacks.com/)
+- [Python Tutorial - Scaler](https://www.scaler.com/topics/python/what-is-python/)
 
 Another great resource is the [Free eBook Foundation](https://ebookfoundation.github.io/free-programming-books/free-programming-interactive-tutorials-en.html#python)
 
